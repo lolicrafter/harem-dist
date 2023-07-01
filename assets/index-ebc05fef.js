@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as s,a as n}from"./index-186e0fed.js";const o={},_=n("h1",null,"用户管理",-1),a=[_];function t(r,d){return c(),s("div",null,a)}const l=e(o,[["render",t],["__file","F:/code/david_harem_admin/src/views/acl/user/index.vue"]]);export{l as default};

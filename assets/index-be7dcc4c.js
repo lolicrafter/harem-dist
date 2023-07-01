@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as n,a as s}from"./index-186e0fed.js";const o={},_=s("h1",null,"数据大屏",-1),t=[_];function a(r,d){return c(),n("div",null,t)}const l=e(o,[["render",a],["__file","F:/code/david_harem_admin/src/views/screen/index.vue"]]);export{l as default};

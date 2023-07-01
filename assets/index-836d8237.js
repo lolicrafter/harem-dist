@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as s,a as o}from"./index-186e0fed.js";const n={},t=o("h1",null,"spu管理",-1),_=[t];function a(r,d){return c(),s("div",null,_)}const l=e(n,[["render",a],["__file","F:/code/david_harem_admin/src/views/product/spu/index.vue"]]);export{l as default};
