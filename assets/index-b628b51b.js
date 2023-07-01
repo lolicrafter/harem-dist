@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as n}from"./index-186e0fed.js";const r={};function _(o,a){return c(),n("div",null,"404页面")}const t=e(r,[["render",_],["__file","F:/code/david_harem_admin/src/views/404/index.vue"]]);export{t as default};
